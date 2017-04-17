@@ -52,7 +52,7 @@ markdown: kramdown
 
 exclude: [
     package.json,
-    Gruntfile.js,
+    
     node_modules,
     .sass-cache,
     Gemfile,
